@@ -1,7 +1,9 @@
-import "./index.css";
+import styles from "./style.module.css";
 
 export function Footer() {
     return (
-        <div className="footer"></div>
+        <footer className={styles.footer}>
+            <p>&copy; 2023 - Controle de Contatos</p>
+        </footer>
     );
 }
