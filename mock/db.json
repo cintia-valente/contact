@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mia Colucci",
+      "email": "mia@email.com",
+      "profile": "admin",
+      "password": "123",
+      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
+      "UpdateDate": "2023-12-15 16:48:31.530 -0300"
+    },
+    {
+      "id": 2,
+      "name": "Miguel Arango",
+      "email": "miguel@email.com",
+      "profile": "miguel",
+      "password": "123",
+      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
+      "UpdateDate": "2023-12-15 16:48:31.530 -0300"
+    },
+    {
+      "name": "Lupita Fernandes",
+      "email": "lupita@email.com",
+      "profile": "lupi",
+      "password": "123",
+      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
+      "UpdateDate": "2023-12-15 16:48:31.530 -0300",
+      "id": 3
+    }
+  ],
+  "contacts": []
+}
