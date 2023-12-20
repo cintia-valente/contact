@@ -3,30 +3,100 @@
     {
       "id": 1,
       "name": "Mia Colucci",
+      "login": "mia",
       "email": "mia@email.com",
       "profile": "admin",
       "password": "123",
-      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
-      "UpdateDate": "2023-12-15 16:48:31.530 -0300"
+      "registrationDate": "15/12/2023 12:48:31",
+      "updateDate": "20/12/2023 19:48:31",
+      "contacts": [
+        {
+          "id": 2,
+          "name": "Celina",
+          "email": "celina@email.com",
+          "phoneNumber": "123456789"
+        },
+        {
+          "id": 3,
+          "name": "Victoria",
+          "email": "victoria@email.com",
+          "phoneNumber": "123456789"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Miguel Arango",
+      "login": "miguel",
       "email": "miguel@email.com",
       "profile": "miguel",
       "password": "123",
-      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
-      "UpdateDate": "2023-12-15 16:48:31.530 -0300"
+      "registrationDate": "18/12/2023 15:51:23",
+      "updateDate": "20/12/2023 19:48:31",
+      "contacts": [
+        {
+          "id": 4,
+          "name": "Nico",
+          "email": "nico@email.com",
+          "phoneNumber": "987654321"
+        }
+      ]
     },
     {
+      "id": 3,
       "name": "Lupita Fernandes",
       "email": "lupita@email.com",
+      "login": "lupita",
       "profile": "lupi",
       "password": "123",
-      "RegistrationDate": "2023-12-15 16:17:59.361 -0300",
-      "UpdateDate": "2023-12-15 16:48:31.530 -0300",
-      "id": 3
+      "registrationDate": "20/12/2023 10:10:11",
+      "updateDate": "20/12/2023 19:48:31",
+      "contacts": [
+        {
+          "id": 5,
+          "name": "Roberta Pardo",
+          "email": "robert@email.com",
+          "phoneNumber": "555555555"
+        },
+        {
+          "id": 6,
+          "name": "Josi Lujan",
+          "email": "josi@email.com",
+          "phoneNumber": "555555555"
+        }
+      ]
     }
   ],
-  "contacts": []
+  "contacts": [
+    {
+      "id": 2,
+      "name": "Celina",
+      "email": "celina@email.com",
+      "phoneNumber": "123456789"
+    },
+    {
+      "id": 3,
+      "name": "Victoria",
+      "email": "victoria@email.com",
+      "phoneNumber": "123456789"
+    },
+    {
+      "id": 4,
+      "name": "Nico",
+      "email": "nico@email.com",
+      "phoneNumber": "987654321"
+    },
+    {
+      "id": 5,
+      "name": "Roberta Pardo",
+      "email": "robert@email.com",
+      "phoneNumber": "555555555"
+    },
+    {
+      "id": 6,
+      "name": "Josi Lujan",
+      "email": "josi@email.com",
+      "phoneNumber": "555555555"
+    }
+  ]
 }
